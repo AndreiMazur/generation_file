@@ -16,7 +16,7 @@
 
 После выбора файла:
 
-![image](https://raw.githubusercontent.com/German-D/generation_file/main/static/generate.png)
+![image](https://raw.githubusercontent.com/AndreiMazur/generation_file/refs/heads/master/generation_file-main/File_result.png)
 
 ## 💻 Технологии
 
