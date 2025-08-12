@@ -6,7 +6,7 @@ import telebot
 from telebot import types
 
 # Укажем токен телеграм-бота из BotFather'а и зададим режим форматирования (parse_mode) с помощью HTML-тегов.
-bot = telebot.TeleBot(token='8010254092:AAEyXKMy8oQVP-SDanavknTOEgdygEABPdE', parse_mode='html')
+bot = telebot.TeleBot(token='TOKEN', parse_mode='html')
 
 # Массив с доступными расширениями файлов. Можно изменить, и добавятся/удалятся кнопки выбора на клавиатуре.
 formats = ['.jpg', '.png', '.svg', '.gif', '.ico', '.mp4', '.avi', '.webm', '.doc', '.docx', '.xls', '.xlsx', '.txt', '.pdf', '.css', '.html', '.js', '.json', '.zip', '.rar']
@@ -208,3 +208,4 @@ def main():
 # Специальная конструкция для точки входа программы (главной функции). В нашем случае это main().
 if __name__ == '__main__':
 	main()
+
