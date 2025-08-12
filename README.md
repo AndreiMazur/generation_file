@@ -12,7 +12,7 @@
 
 Стартовое меню:
 
-![image](https://raw.githubusercontent.com/German-D/generation_file/main/static/menu.png)
+![image](https://raw.githubusercontent.com/AndreiMazur/generation_file/refs/heads/master/format.png)
 
 После выбора файла:
 
